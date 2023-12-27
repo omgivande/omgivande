@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, world!</h1>
 
-<p>Omgivande. Here are some of the languages I code with:</p>
+<p>Here are some of the languages I code with:</p>
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -16,13 +16,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-<h3>Open source projects</h3>
-<!-- Add your open source projects here -->
-
-<h3>My latest posts</h3>
-<!-- Add your latest blog posts here -->
-
 <h3>Where to find me</h3>
 <p>
-  <!-- Add your social media links here -->
+  <a href="https://t.me/bypassedac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+  <a href="https://discord.gg/8Esr4bRq" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
 </p>
