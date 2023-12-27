@@ -21,3 +21,10 @@
   <a href="https://t.me/bypassedac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
   <a href="https://discord.gg/8Esr4bRq" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
 </p>
+
+<h3>Github Stats</h3>
+<p>
+  <a href="https://t.me/bypassedac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+  <a href="https://discord.gg/8Esr4bRq" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omgivande&count_private=true&show_icons=true&theme=radical)
+</p>
